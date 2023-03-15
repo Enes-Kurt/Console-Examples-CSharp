@@ -5,7 +5,7 @@ C# yazýlým diliyle console uygulamasýnda yapýlan bazý algoritma örnekleri.
 ## 1- Polindrome Sayý
 
 Bir sayýnýn polindrome sayý olup olmadýðýný bulur.  
-Örnek  
+ **Örnek**  
 Input: 32123  --> Output: "Sayý polindromdur."
 
 #### Programýn Çalýþmasý
@@ -18,7 +18,7 @@ Input: 32123  --> Output: "Sayý polindromdur."
 ## 2- Sayýlarý Yazýya Çevirme
 
 En fazla 5 basamaklý olacak þekilde yazýya çevirmek istediðiniz sayýyý yazý formatýnda yazar.  
-**Örnek**  
+ **Örnek**  
 Input: 54231  --> Output: ellidörtbinikiyüzotuzbir
 
 #### Programýn Çalýþmasý
