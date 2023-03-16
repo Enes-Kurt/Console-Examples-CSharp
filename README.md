@@ -32,9 +32,9 @@ Input: 54231  --> Output: ellidörtbinikiyüzotuzbir
 Bu program þirketinizdeki iþçinin sýnýfýný seçektikten sonra bu iþçinin hafta içi ve hafta sonu mesai sürelerini girerek iþçinin toplam aylýk ücretini hesaplar. Ýþçlerinizi listesini çýkartýr.  
  **Örnek**  
 Input: Ýþçi adý soyadý: Enes Kurt  
-       Ýþçi seçimi: Çýrak  
-       1 Hafta için toplam hafta içi mesaisi: 10                --> Output:                 ----------------Listeniz-----------  
-       1 Hafta için toplam hafta sonu mesaisi: 15                           Enes Kurt isimli iþçinin mesai ücretleri dahil toplam aylýk maaþý: 5100 TL
+&emsp;Ýþçi seçimi: Çýrak  
+&emsp;1 Hafta için toplam hafta içi mesaisi: 10 &emsp;&emsp;&emsp; --> Output:&emsp;&emsp;----------------Listeniz-----------  
+&emsp;1 Hafta için toplam hafta sonu mesaisi: 15 &emsp;&emsp;&emsp;&emsp;Enes Kurt isimli iþçinin mesai ücretleri dahil toplam aylýk maaþý: 5100 TL
 
 #### Programýn Çalýþmasý
 
