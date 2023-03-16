@@ -34,7 +34,7 @@ Bu program þirketinizdeki iþçinin sýnýfýný seçektikten sonra bu iþçinin hafta iç
 Input: Ýþçi adý soyadý: Enes Kurt  
 &emsp;Ýþçi seçimi: Çýrak  
 &emsp;1 Hafta için toplam hafta içi mesaisi: 10 &emsp;&emsp;&emsp; --> Output:&emsp;&emsp;----------------Listeniz-----------  
-&emsp;1 Hafta için toplam hafta sonu mesaisi: 15 &emsp;&emsp;&emsp;&emsp;Enes Kurt isimli iþçinin mesai ücretleri dahil toplam aylýk maaþý: 5100 TL
+&emsp;1 Hafta için toplam hafta sonu mesaisi: 15 &emsp;&emsp;&emsp;Enes Kurt isimli iþçinin mesai ücretleri dahil toplam aylýk maaþý: 5100 TL
 
 #### Programýn Çalýþmasý
 
