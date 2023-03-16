@@ -26,3 +26,20 @@ Input: 54231  --> Output: ellidörtbinikiyüzotuzbir
 1. Kullanýcýdan çevirmek istediði sayýyý girmesini ister ve kullanýcýdan bu bilgiyi alýr.
 2. Sayýyý string olarak alýr ve basamaklara özel atanmýþ strin dizileri yardýmýyla boþ bir stringe sayýnýn yazý karþýlýðýný sýrayla ekler.
 3. Sayýnýn yazý olarak karþýlýðýný ekrana yazdýrýr.
+
+## 3- Sayýlarý Yazýya Çevirme
+
+Bu program þirketinizdeki iþçinin sýnýfýný seçektikten sonra bu iþçinin hafta içi ve hafta sonu mesai sürelerini girerek iþçinin toplam aylýk ücretini hesaplar. Ýþçlerinizi listesini çýkartýr.  
+ **Örnek**  
+Input: Ýþçi adý soyadý: Enes Kurt  
+       Ýþçi seçimi: Çýrak  
+       1 Hafta için toplam hafta içi mesaisi: 10                --> Output:                 ----------------Listeniz-----------  
+       1 Hafta için toplam hafta sonu mesaisi: 15                           Enes Kurt isimli iþçinin mesai ücretleri dahil toplam aylýk maaþý: 5100 TL
+
+#### Programýn Çalýþmasý
+
+1. Kullanýcýdan ad, soyad ve haftalýk mesai saatleri bilgilerini alýr.
+2. Ýþçi sýnýfý seçimine göre (çýrak, kalfa, usta) net maaþ hesabýný yapar.
+3. Programý sonlandýrýp listeyi görmek için "y" giriþi yaparak sonlandýrabilir veya listeye daha fazla iþçi girmek için baþka bir giriþ yapabilirisiz.
+4. Program sonlandýðýnda listenizi ekrana yazdýrýr.
+
