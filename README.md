@@ -8,20 +8,20 @@ Bir sayýnýn polindrome sayý olup olmadýðýný bulur.
  **Örnek**  
 Input: 32123  --> Output: "Sayý polindromdur."
 
-#### Programýn Ã‡alýþmasý
+#### Programýn Çalýþmasý
 
 1. Kullanýcýnýn kaç basamaklý sayý girmek istediðini sorar ve kullanýcýdan bu bilgiyi alýr.
 2. Kullanýcýdan kontrol edeceði sayýyý girmesini ister ve kullanýcýdan bu bilgiyi alýr.
 3. Sayýyý string olarak alýr ve array mantýðýyla sayýnýn kotrolünü yapar.
 4. Sayýnýn polindrome olup olmadýðýný ekrana yazdýrýr.
 
-## 2- Sayýlarý Yazýya Ã‡evirme
+## 2- Sayýlarý Yazýya Çevirme
 
 En fazla 5 basamaklý olacak þekilde yazýya çevirmek istediðiniz sayýyý yazý formatýnda yazar.  
  **Örnek**  
 Input: 54231  --> Output: ellidörtbinikiyüzotuzbir
 
-#### Programýn Ã‡alýþmasý
+#### Programýn Çalýþmasý
 
 1. Kullanýcýdan çevirmek istediði sayýyý girmesini ister ve kullanýcýdan bu bilgiyi alýr.
 2. Sayýyý string olarak alýr ve basamaklara özel atanmýþ strin dizileri yardýmýyla boþ bir stringe sayýnýn yazý karþýlýðýný sýrayla ekler.
@@ -32,11 +32,11 @@ Input: 54231  --> Output: ellidörtbinikiyüzotuzbir
 Bu program þirketinizdeki iþçinin sýnýfýný seçektikten sonra bu iþçinin hafta içi ve hafta sonu mesai sürelerini girerek iþçinin toplam aylýk ücretini hesaplar. Ýþçlerinizi listesini çýkartýr.  
  **Örnek**  
 Input: Ýþçi adý soyadý: Enes Kurt  
-&emsp;Ýþçi seçimi: Ã‡ýrak  
+&emsp;Ýþçi seçimi: Çýrak  
 &emsp;1 Hafta için toplam hafta içi mesaisi: 10 &emsp;&emsp; --> Output:&emsp;&emsp;----------------Listeniz-----------  
 &emsp;1 Hafta için toplam hafta sonu mesaisi: 15 &emsp;&emsp;&emsp;&emsp;Enes Kurt isimli iþçinin net ücreti: 5100 TL
 
-#### Programýn Ã‡alýþmasý
+#### Programýn Çalýþmasý
 
 1. Kullanýcýdan ad, soyad ve haftalýk mesai saatleri bilgilerini alýr.
 2. Ýþçi sýnýfý seçimine göre (çýrak, kalfa, usta) net maaþ hesabýný yapar.
