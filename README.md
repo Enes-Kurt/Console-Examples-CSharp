@@ -1,47 +1,47 @@
 # Console-Examples-CSharp
 
-C# yazılım diliyle console uygulamasında yapılan bazı algoritma örnekleri.
+C# yazÄ±lÄ±m diliyle console uygulamasÄ±nda yapÄ±lan bazÄ± algoritma Ã¶rnekleri.
 
-## 1- Polindrome Sayı
+## 1- Polindrome SayÄ±
 
-Bir sayının polindrome sayı olup olmadığını bulur.  
- **Örnek**  
-Input: 32123  --> Output: "Sayı polindromdur."
+Bir sayÄ±nÄ±n polindrome sayÄ± olup olmadÄ±ÄŸÄ±nÄ± bulur.  
+ **Ã–rnek**  
+Input: 32123  --> Output: "SayÄ± polindromdur."
 
-#### Programın Çalışması
+#### ProgramÄ±n Ã‡alÄ±ÅŸmasÄ±
 
-1. Kullanıcının kaç basamaklı sayı girmek istediğini sorar ve kullanıcıdan bu bilgiyi alır.
-2. Kullanıcıdan kontrol edeceği sayıyı girmesini ister ve kullanıcıdan bu bilgiyi alır.
-3. Sayıyı string olarak alır ve array mantığıyla sayının kotrolünü yapar.
-4. Sayının polindrome olup olmadığını ekrana yazdırır.
+1. KullanÄ±cÄ±nÄ±n kaÃ§ basamaklÄ± sayÄ± girmek istediÄŸini sorar ve kullanÄ±cÄ±dan bu bilgiyi alÄ±r.
+2. KullanÄ±cÄ±dan kontrol edeceÄŸi sayÄ±yÄ± girmesini ister ve kullanÄ±cÄ±dan bu bilgiyi alÄ±r.
+3. SayÄ±yÄ± string olarak alÄ±r ve array mantÄ±ÄŸÄ±yla sayÄ±nÄ±n kotrolÃ¼nÃ¼ yapar.
+4. SayÄ±nÄ±n polindrome olup olmadÄ±ÄŸÄ±nÄ± ekrana yazdÄ±rÄ±r.
 
-## 2- Sayıları Yazıya Çevirme
+## 2- SayÄ±larÄ± YazÄ±ya Ã‡evirme
 
-En fazla 5 basamaklı olacak şekilde yazıya çevirmek istediğiniz sayıyı yazı formatında yazar.  
- **Örnek**  
-Input: 54231  --> Output: ellidörtbinikiyüzotuzbir
+En fazla 5 basamaklÄ± olacak ÅŸekilde yazÄ±ya Ã§evirmek istediÄŸiniz sayÄ±yÄ± yazÄ± formatÄ±nda yazar.  
+ **Ã–rnek**  
+Input: 54231  --> Output: ellidÃ¶rtbinikiyÃ¼zotuzbir
 
-#### Programın Çalışması
+#### ProgramÄ±n Ã‡alÄ±ÅŸmasÄ±
 
-1. Kullanıcıdan çevirmek istediği sayıyı girmesini ister ve kullanıcıdan bu bilgiyi alır.
-2. Sayıyı string olarak alır ve basamaklara özel atanmış strin dizileri yardımıyla boş bir stringe sayının yazı karşılığını sırayla ekler.
-3. Sayının yazı olarak karşılığını ekrana yazdırır.
+1. KullanÄ±cÄ±dan Ã§evirmek istediÄŸi sayÄ±yÄ± girmesini ister ve kullanÄ±cÄ±dan bu bilgiyi alÄ±r.
+2. SayÄ±yÄ± string olarak alÄ±r ve basamaklara Ã¶zel atanmÄ±ÅŸ strin dizileri yardÄ±mÄ±yla boÅŸ bir stringe sayÄ±nÄ±n yazÄ± karÅŸÄ±lÄ±ÄŸÄ±nÄ± sÄ±rayla ekler.
+3. SayÄ±nÄ±n yazÄ± olarak karÅŸÄ±lÄ±ÄŸÄ±nÄ± ekrana yazdÄ±rÄ±r.
 
-## 3- Sayıları Yazıya Çevirme
+## 3- Ã‡alÄ±ÅŸanÄ±n Mesaili Ãœcretini Hesaplama
 
-Bu program şirketinizdeki işçinin sınıfını seçektikten sonra bu işçinin hafta içi ve hafta sonu mesai sürelerini girerek işçinin toplam aylık ücretini hesaplar. İşçlerinizi listesini çıkartır.  
- **Örnek**  
-Input: İşçi adı soyadı: Enes Kurt  
-&emsp;İşçi seçimi: Çırak  
-&emsp;1 Hafta için toplam hafta içi mesaisi: 10 &emsp;&emsp; --> Output:&emsp;&emsp;----------------Listeniz-----------  
-&emsp;1 Hafta için toplam hafta sonu mesaisi: 15 &emsp;&emsp;&emsp;&emsp;Enes Kurt isimli işçinin net ücreti: 5100 TL
+Bu program ÅŸirketinizdeki iÅŸÃ§inin sÄ±nÄ±fÄ±nÄ± seÃ§ektikten sonra bu iÅŸÃ§inin hafta iÃ§i ve hafta sonu mesai sÃ¼relerini girerek iÅŸÃ§inin toplam aylÄ±k Ã¼cretini hesaplar. Ä°ÅŸÃ§lerinizi listesini Ã§Ä±kartÄ±r.  
+ **Ã–rnek**  
+Input: Ä°ÅŸÃ§i adÄ± soyadÄ±: Enes Kurt  
+&emsp;Ä°ÅŸÃ§i seÃ§imi: Ã‡Ä±rak  
+&emsp;1 Hafta iÃ§in toplam hafta iÃ§i mesaisi: 10 &emsp;&emsp; --> Output:&emsp;&emsp;----------------Listeniz-----------  
+&emsp;1 Hafta iÃ§in toplam hafta sonu mesaisi: 15 &emsp;&emsp;&emsp;&emsp;Enes Kurt isimli iÅŸÃ§inin net Ã¼creti: 5100 TL
 
-#### Programın Çalışması
+#### ProgramÄ±n Ã‡alÄ±ÅŸmasÄ±
 
-1. Kullanıcıdan ad, soyad ve haftalık mesai saatleri bilgilerini alır.
-2. İşçi sınıfı seçimine göre (çırak, kalfa, usta) net maaş hesabını yapar.
-3. Programı sonlandırıp listeyi görmek için "y" girişi yaparak sonlandırabilir veya listeye daha fazla işçi girmek için başka bir giriş yapabilirisiz.
-4. Program sonlandığında listenizi ekrana yazdırır.
+1. KullanÄ±cÄ±dan ad, soyad ve haftalÄ±k mesai saatleri bilgilerini alÄ±r.
+2. Ä°ÅŸÃ§i sÄ±nÄ±fÄ± seÃ§imine gÃ¶re (Ã§Ä±rak, kalfa, usta) net maaÅŸ hesabÄ±nÄ± yapar.
+3. ProgramÄ± sonlandÄ±rÄ±p listeyi gÃ¶rmek iÃ§in "y" giriÅŸi yaparak sonlandÄ±rabilir veya listeye daha fazla iÅŸÃ§i girmek iÃ§in baÅŸka bir giriÅŸ yapabilirisiz.
+4. Program sonlandÄ±ÄŸÄ±nda listenizi ekrana yazdÄ±rÄ±r.
 
 ## 4- Asal Çarpan Bulma
 
