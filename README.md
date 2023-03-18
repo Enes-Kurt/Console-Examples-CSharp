@@ -43,3 +43,15 @@ Input: Ýþçi adý soyadý: Enes Kurt
 3. Programý sonlandýrýp listeyi görmek için "y" giriþi yaparak sonlandýrabilir veya listeye daha fazla iþçi girmek için baþka bir giriþ yapabilirisiz.
 4. Program sonlandýðýnda listenizi ekrana yazdýrýr.
 
+## 4- Asal Çarpan Bulma
+
+Girilen sayýnýn asal çarpanlarýný ve bulur.  
+ **Örnek**  
+Input: 32681  --> Output: 1. Asal çarpan: 11&emsp;&emsp;&emsp;2. Asal çarpan: 2971
+
+#### Programýn Çalýþmasý
+
+1. Kullanýcýdan asal çarpanlarýný bulmak istediði sayýyý girmesini ister ve kullanýcýdan bu bilgiyi alýr.
+2. Sayýyý int olarak alýr ve sayýnýn bölenlerini bulur. Bulunan tam bölenlerin asal olup olmadýðýný kontrol eder.
+3. Sayýnýn asal çapranlarýný ekrana yazdýrýr.
+
