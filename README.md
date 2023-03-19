@@ -55,3 +55,16 @@ Input: 32681  --> Output: 1. Asal çarpan: 11&emsp;&emsp;&emsp;2. Asal çarpan: 29
 2. Sayýyý int olarak alýr ve sayýnýn bölenlerini bulur. Bulunan tam bölenlerin asal olup olmadýðýný kontrol eder.
 3. Sayýnýn asal çapranlarýný ekrana yazdýrýr.
 
+## 5- Þarký Listesi Oluþturma
+
+Ýstediðiniz kadar þarký ekleyerek veya çýkartarak bir þarký listesi oluþturur.  
+ **Örnek**  
+Input: "Parca1" "Parca2" "Parca3" "Parca4" &emsp;&emsp; --> Output:&emsp;-----------Son Listeniz-----------  
+NOt: Parca3 listeden çýkartýlmýþtýr.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"Parca1" "Parca2" "Parca4"
+
+#### Programýn Çalýþmasý
+
+1. Bir liste oluþturur ve kullanýcý bu liseteye istediði kadar þarký ekleyebilir.
+2. Kullanýcýya ekledeðiþi þarký listesinden þarký çýkarmak isteyip istmedðiðini sorar ve isterse þarkýlarý listeden çýkartabilir.
+3. Kullanýcýnýn listesi tamamlandýðýnda programý sonlandýðýnda þarký listesini ekrana yazdýrýr.
+
