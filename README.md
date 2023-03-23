@@ -70,7 +70,7 @@ NOt: Parca3 listeden çýkartýlmýþtýr.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"P
 
 ## 6- Kosu Mesafesi Hesaplama
 
-Adým uzunluðu,koþu süresi ve dakika baþýna adým gibi bilgileri alarak kullanýcýnýn koþu mesafesini hesaplar. Kullanýcý birden fazla koþu hesaplatabilir ve program tüm koþularý listeler ve tüm koþularýnýn toplam koþu mesefasini ve toplam süresini bulur.
+Adým uzunluðu,koþu süresi ve dakika baþýna adým gibi bilgilerini alarak kullanýcýnýn koþu mesafesini hesaplar. Kullanýcý birden fazla koþu hesaplatabilir ve program tüm koþularý listeler ve tüm koþularýnýn toplam koþu mesefasini ve toplam süresini bulur.
 
 #### Programýn Çalýþmasý
 
