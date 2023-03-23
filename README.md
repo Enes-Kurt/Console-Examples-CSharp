@@ -68,3 +68,13 @@ NOt: Parca3 listeden çýkartýlmýþtýr.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;"P
 2. Kullanýcýya ekledeðiþi þarký listesinden þarký çýkarmak isteyip istmedðiðini sorar ve isterse þarkýlarý listeden çýkartabilir.
 3. Kullanýcýnýn listesi tamamlandýðýnda programý sonlandýðýnda þarký listesini ekrana yazdýrýr.
 
+## 6- Kosu Mesafesi Hesaplama
+
+Adým uzunluðu,koþu süresi ve dakika baþýna adým gibi bilgileri alarak kullanýcýnýn koþu mesafesini hesaplar. Kullanýcý birden fazla koþu hesaplatabilir ve program tüm koþularý listeler ve tüm koþularýnýn toplam koþu mesefasini ve toplam süresini bulur.
+
+#### Programýn Çalýþmasý
+
+1. Kullanýcýyý giriþ yapacaðý bilgiler hakkýnda bilgilendirir.
+2. Kullanýcýdan adým uzunluðu alýr. Bunun ardýndan bir tura ait koþulan saat,dakika ve dakikada kaç adým attýðýný girmesini ister.
+3. Kullanýcýdan alýnan bilgileri kullanaran bir turdaki koþu mesafesini hespalar ve baþka bir koþu giriþi için kullanýcýya sorar kulllanýcý bu þekilde birden fazla koþu ekleyebilir.
+4. Kullanýcýnýn koþularýný ve bu koþudaki bilgilerini ekranda bir liste halinde yazdýrýr.
