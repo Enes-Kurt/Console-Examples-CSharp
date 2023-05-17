@@ -85,4 +85,4 @@ Long gibi deðiþken tiplerine dönüþtürülemeyecek büyüklükteki 2 sayýyý string ola
 
 #### Programýn Çalýþmasý
 
-1. 2 adet girilen sayýsý string biçimde toplar ve ekrana yazdýrýr.
+1. 2 adet girilen sayýyý string biçimde toplar ve ekrana yazdýrýr.
