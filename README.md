@@ -78,3 +78,11 @@ Adým uzunluðu,koþu süresi ve dakika baþýna adým gibi bilgilerini alarak kullanýc
 2. Kullanýcýdan adým uzunluðu alýr. Bunun ardýndan bir tura ait koþulan saat,dakika ve dakikada kaç adým attýðýný girmesini ister.
 3. Kullanýcýdan alýnan bilgileri kullanaran bir turdaki koþu mesafesini hespalar ve baþka bir koþu giriþi için kullanýcýya sorar kulllanýcý bu þekilde birden fazla koþu ekleyebilir.
 4. Kullanýcýnýn koþularýný ve bu koþudaki bilgilerini ekranda bir liste halinde yazdýrýr.
+
+## 7- String Sekildeki 2 Buyuk Sayiyi Toplama
+
+Long gibi deðiþken tiplerine dönüþtürülemeyecek büyüklükteki 2 sayýyý string olarak toplama yapar.
+
+#### Programýn Çalýþmasý
+
+1. 2 adet girilen sayýsý string biçimde toplar ve ekrana yazdýrýr.
